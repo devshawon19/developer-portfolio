@@ -203,3 +203,35 @@
     font-weight: 700;
     margin-bottom: 16px;
 }
+
+
+/* holidays sale section */
+.holidays-container{
+    text-align: center;
+    max-width: 1600px ;
+    margin-inline: auto;
+}
+
+.holidays{
+    color: #F00;
+    font-size: 72px;
+    font-weight: 900;
+}
+
+.sale50{
+    color: #070211;
+    font-size: 72px;
+    font-weight: 900;
+}
+
+.functional{
+    color: #070211;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.holidays-description{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 500;
+}
