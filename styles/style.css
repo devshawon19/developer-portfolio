@@ -235,3 +235,166 @@
     font-size: 20px;
     font-weight: 500;
 }
+
+/* discount banner related styles */
+
+/* .holidays-banner{
+    background-image: url(../images/Rectangle\ 2.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    position: relative;
+    margin-bottom: 157px;
+}
+
+.gift-box{
+    height: 590px;
+    position: relative;
+    top: 400px;
+    right: 300px;
+}
+.discount50{
+    position: relative;
+    bottom: 20px;
+    left: 150px;
+}
+.women-part{
+    position: relative;
+    left: 289px;
+    bottom: 225px;
+} */
+
+
+
+/* best gift related styles */
+.best-gift-container{
+    max-width: 1600px;
+    margin-inline: auto
+}
+.best-gift{
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
+}
+.awesome-portfolio{
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+}
+.best-gift-text{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.products{
+    margin-top: 48px;
+}
+
+.products>img{
+    
+}
+
+.row1 > img{
+    padding: 5px;
+    transition: transform .2s;
+}
+.row1 > img:hover{
+    transform: scale(1.1);
+}
+.row2 > img{
+    padding: 5px;
+    transition: transform .2s;
+}
+.row2 > img:hover{
+    transform: scale(1.1);
+}
+
+/* subscribe section styles */
+.subscribe-container{
+    max-width: 1320px;
+    margin-top: 120px;
+    margin-inline: auto;
+    text-align: center;
+}
+
+.email-field-section{
+    margin-top: 48px;
+    position: relative;
+    margin-bottom: 120px;
+}
+.email-field-section > form{
+    display: inline-flex;
+}
+.email-field-section > form > input{
+    border: none;
+    padding: 25px;
+    font-size: 18px;
+    font-weight: 400;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
+.email-field-section > form > button{
+    border: none;
+    background-color: #F00;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    padding: 24px 56px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+/* footer related style: */
+footer{
+    background-color: #070211;
+    padding: 140px;
+}
+
+.building-no{
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 500;
+}
+.area-name{
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.address-container{
+    display: flex;
+    justify-content: space-between;
+}
+.telephone-container{
+    display: flex;
+    align-items: center;
+}
+.telephone-no{
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 500;
+    padding-left: 16px;
+}
+
+footer > hr{
+    height: 2px;
+    margin-top: 50px;
+    background-color:rgba(255, 255, 255, 0.15);
+    border: none;
+}
+
+.social-links{
+    text-align: center;
+    margin-block: 48px;
+}
+
+.social-links > img{
+    padding-inline: 4px;
+}
+
+.rights{
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 50px;
+}
